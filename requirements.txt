@@ -1,0 +1,7 @@
+pandas
+Flask
+requests
+beautifulsoup4
+kafka-python
+kafka-python-ng
+
